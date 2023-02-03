@@ -1,0 +1,37 @@
+{
+   "RestockLabelCharacter": "R",
+   "QuickStackLabelCharacter": "Q",
+   "SortLabelCharacter": "S",
+
+   "QuickStackResultMessageNothing": "Nichts zum schnelles Stapeln",
+   "QuickStackResultMessageNone": "0 Elemente gestapelt",
+   "QuickStackResultMessageOne": "1 Element gestapelt",
+   "QuickStackResultMessageMore": "Gestapelte {0} Elemente",
+
+   "RestockResultMessageNothing": "Nichts aufzufüllen",
+   "RestockResultMessageNone": "Konnte nicht auffüllen (0/{0})",
+   "RestockResultMessagePartial": "Teilweise aufgefüllt ({0}/{1})",
+   "RestockResultMessageFull": "Vollständig aufgefüllt (insgesamt: {0})",
+
+   "QuickStackLabel": "Schneller Stapel",
+   "StoreAllLabel": "Alle speichern",
+   "SortLabel": "Sortieren",
+   "RestockLabel": "Auffüllen",
+   "TrashLabel": "Papierkorb",
+
+   "SortByInternalNameLabel": "i. Name",
+   "SortByTranslatedNameLabel": "t. Name",
+   "SortByValueLabel": "Wert",
+   "SortByWeightLabel": "Gewicht",
+   "SortByTypeLabel": "Typ",
+
+   "TrashConfirmationOkayButton": "Papierkorb",
+   "QuickTrashConfirmation": "Schneller Papierkorb?",
+   "CantTrashFavoritedItemWarning": "Favorited Item kann nicht gelöscht werden!",
+   "CantTrashFlagFavoritedItemWarning": "Flagge als Favorit kann nicht in den Papierkorb verschoben werden!",
+   "CantTrashHotkeyBarItemWarning": "Einstellungen verbieten das Löschen von Objekten in der Hotkey-Leiste!",
+   "CantFavoriteTrashFlaggedItemWarning": "Ein als Papierkorb gekennzeichnetes Element kann nicht favorisiert werden!",
+
+   "FavoritedItemTooltip": "Wird nicht schnell gestapelt, sortiert,\ngespeichert oder entsorgt",
+   "TrashFlaggedItemTooltip": "Kann schnell in den Papierkorb verschoben werden"
+}
